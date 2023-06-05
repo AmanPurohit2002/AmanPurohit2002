@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🙋‍♂️ Hey there ! I am Aman👋
+
+
+### 💫 About Me
+I'm a passionate software developer with a strong enthusiasm for coding and problem-solving. I am constantly exploring new technologies and seeking opportunities to expand my knowledge and skills. With a firm foundation in computer science, I love to tackle challenging projects and collaborate with like-minded individuals to create innovative solutions.
+
+### 💻 Tech Stack
+
 
 <!--
 **AmanPurohit2002/AmanPurohit2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
