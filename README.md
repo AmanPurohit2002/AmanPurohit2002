@@ -5,6 +5,14 @@
 I'm a passionate software developer with a strong enthusiasm for coding and problem-solving. I am constantly exploring new technologies and seeking opportunities to expand my knowledge and skills. With a firm foundation in computer science, I love to tackle challenging projects and collaborate with like-minded individuals to create innovative solutions.
 
 ### 💻 Tech Stack
+ReactJs, NodeJs, Java, Express, Html,css, Javascript
+
+
+### Other Details
+🔭 I’m currently working on building a website which can bring revolution
+- 🌱 I’m currently learning Backend
+- 👯 I’m looking to collaborate on youtuber
+
 
 
 <!--
