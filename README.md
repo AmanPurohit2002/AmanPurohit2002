@@ -11,7 +11,7 @@ ReactJs, NodeJs, Java, Express, Html,css, Javascript
 ### Other Details
 🔭 I’m currently working on building a website which can bring revolution
 - 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on youtuber
+- 👯 I’m looking to collaborate with talented engineers
 
 
 
