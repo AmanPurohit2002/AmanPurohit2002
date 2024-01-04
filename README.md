@@ -1,11 +1,11 @@
-### 🙋‍♂️ Hey there ! I am Aman👋
+### 🙋‍♂️ Hey there! I am Aman👋
 
 
 ### 💫 About Me
 I'm a passionate software developer with a strong enthusiasm for coding and problem-solving. I am constantly exploring new technologies and seeking opportunities to expand my knowledge and skills. With a firm foundation in computer science, I love to tackle challenging projects and collaborate with like-minded individuals to create innovative solutions.
 
-### 💻 Tech Stack
-ReactJs, NodeJs, Java, Express, Javascript,Express
+### 💻 Technologies I Know
+Javascript, ReactJs, NextJs, NodeJs, Express, TailwindCss, Java,  C++, Python, Linux, GoLang, Docker, AWS(Cloud service) 
 
 
 ### Other Details
